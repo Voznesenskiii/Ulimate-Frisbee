@@ -4,8 +4,9 @@
     font-variant: normal;
     font-family: "Times new Roman", Arial, sans-serif;
     color: rgb(0, 0, 0);
-    text-align: left;
+    text-align: center;
 }
+
 aside.left{
     display: none;
 }
@@ -33,10 +34,11 @@ nav{
     display: inline;
     font-family: "Times new Roman", Arial, sans-serif;
     font-size: 110%;
+    text-align: center;
 }
 a{
     background: rgb(155, 155, 155);
-    color: black;
+    color: rgb(0, 0, 0);
     font-variant: normal;
     font-size: 110%;
     font-family: "Times new Roman", Arial, sans-serif;
@@ -49,7 +51,6 @@ p{
     font-size: 110%;
     font-family: "Times new Roman", Arial, serif;
     font-weight: normal;
-    text-align: left;
 }
 th{
     font-weight: bolder;
