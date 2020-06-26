@@ -1,0 +1,58 @@
+.active{
+    background: rgb(116, 116, 116);
+    display: inline;
+    font-variant: normal;
+    font-size: 100%;
+    font-family: Arial, "Times new Roman", sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+aside.left{
+    display: none;
+}
+header{
+    background: rgb(172, 171, 171);
+}
+h1{
+    color: rgb(244, 248, 252);
+    font-family: "Times new Roman", Arial, serif;
+    text-transform: uppercase;
+    font-variant: normal;
+    font-style: normal;
+    font-size: 300%;
+    text-align: center;
+}
+nav{
+    display: inline;
+}
+a{
+    background: rgb(155, 155, 155);
+    color: black;
+    font-variant: normal;
+    font-size: 100%;
+    font-family: Arial, "Times new Roman", sans-serif;
+}
+h2{
+    text-transform: uppercase;
+    color: rgb(0, 0, 155);
+    font-variant: normal;
+    font-size: 200%;
+    font-family: "Times new Roman", Arial, serif;
+    text-align: left;
+}
+section{
+    background: rgb(117, 117, 117);
+}
+.right{
+    background: rgb(117, 117, 117);
+}
+p{
+    font-variant: normal;
+    font-size: 100%;
+    font-family: Arial, "Times new Roman", serif;
+    font-weight: normal;
+    text-align: left;
+}
+th{
+    font-weight: bolder;
+}
